@@ -1,0 +1,6 @@
+# app-ads.txt for Lumiriver (Techmely)
+# Ad networks only read this file at the ROOT of the developer website domain
+# declared in the stores (e.g. https://techmely.com/app-ads.txt), not at
+# https://techmely.github.io/lumiriver-site/app-ads.txt. See docs/release/RELEASE_CHECKLIST.md.
+
+google.com, pub-8593423054818825, DIRECT, f08c47fec0942fa0

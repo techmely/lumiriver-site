@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://techmely.github.io/lumiriver-site/sitemap.xml
